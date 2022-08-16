@@ -1,20 +1,7 @@
-let fruit = ["🍎", "🍊", "🍎", "🍎", "🍊"]
-let appleShelf = document.getElementById("apple-shelf")
-let orangeShelf = document.getElementById("orange-shelf")
+const recipient = "David";
 
-// Create a function that puts the apples onto the appleShelf
-// and the oranges onto the orangeShelf. Use a for loop,
-// a conditional statement, and the textContent property.
+const sender = "Phuc Dong";
 
-function sortFruits() {
-    for (let i=0; i<fruit.length; i++) {
-        if (fruit[i] === "🍎") {
-            appleShelf.textContent += fruit[i];
-        } else {
-            orangeShelf.textContent += fruit[i];
-        }
-    }
-}
+const email = `Hey ${recipient}! How are you doing? Cheers, ${sender}`;
 
-sortFruits();
-
+console.log(email);
