@@ -1,7 +1,6 @@
-const recipient = "David";
-
-const sender = "Phuc Dong";
-
-const email = `Hey ${recipient}! How are you doing? Cheers, ${sender}`;
-
-console.log(email);
+console.log(  Boolean("")   ) // false
+console.log(  Boolean("0")  ) // true
+console.log(  Boolean(100)  ) // true
+console.log(  Boolean(null) ) // false
+console.log(  Boolean([0])  ) // true
+console.log(  Boolean(-0)   ) // false
