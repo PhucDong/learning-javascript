@@ -1,7 +1,10 @@
-# **learn-javascript**
-### **Update: 19 August 2022**
+# **learning-javascript**
+#### **Update: 19 August 2022**
 
-What I've learned
+I've learned JavaScript from freeCodeCamp and The Oding Project
+
+### **freeCodeCamp**
+**Source:** [JavaScript Programming - Full Course](https://youtu.be/jS4aFq5-91M) taught by Per Harald Borgen from Scrimba
 - localStorage: getItem, setItem
 - for loop
 - function
