@@ -1,5 +1,5 @@
 # **learn-javascript**
-### **Update: 18 August 2022**
+### **Update: 19 August 2022**
 
 What I've learned
 - localStorage: getItem, setItem
