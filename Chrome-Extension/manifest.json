@@ -1,10 +1,10 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 4,
     "version": "2.0",
-    "name": "Lead Tracker",
+    "name": "Connection Tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "connection.png"
     },
     "permissions": [
         "tabs"
