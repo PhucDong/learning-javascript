@@ -9,3 +9,5 @@ What I've learned
 - basic DOM manipulation: querySelector, getElementById
 - let/const variables
 - array
+- template literals
+- function parameters
